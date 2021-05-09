@@ -1,8 +1,0 @@
-[11-Mar-2021 10:05:13 UTC] PHP Notice:  Undefined index: phone in /home2/storke/public_html/mpesa/mpesa.php on line 9
-[11-Mar-2021 10:05:13 UTC] PHP Notice:  Undefined index: amount in /home2/storke/public_html/mpesa/mpesa.php on line 10
-[11-Mar-2021 10:09:21 UTC] PHP Notice:  Undefined index: phone in /home2/storke/public_html/mpesa/mpesa.php on line 9
-[11-Mar-2021 10:09:21 UTC] PHP Notice:  Undefined index: amount in /home2/storke/public_html/mpesa/mpesa.php on line 10
-[27-Mar-2021 13:07:50 UTC] PHP Notice:  Undefined index: phone in /home2/storke/public_html/mpesa/mpesa.php on line 9
-[27-Mar-2021 13:07:50 UTC] PHP Notice:  Undefined index: amount in /home2/storke/public_html/mpesa/mpesa.php on line 10
-[27-Mar-2021 13:09:08 UTC] PHP Notice:  Undefined index: phone in /home2/storke/public_html/mpesa/mpesa.php on line 9
-[27-Mar-2021 13:09:08 UTC] PHP Notice:  Undefined index: amount in /home2/storke/public_html/mpesa/mpesa.php on line 10
